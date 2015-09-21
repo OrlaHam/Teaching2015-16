@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+>>>>>>> 7fcb27528ceea757aa1309c77b6dc78213d90634
 
 # C extensions
 *.so
@@ -58,6 +64,7 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
 
@@ -116,3 +123,5 @@ crashlytics-build.properties
 pyvenv.cfg
 pip-selfcheck.json
 
+=======
+>>>>>>> 7fcb27528ceea757aa1309c77b6dc78213d90634
